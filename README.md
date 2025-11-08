@@ -341,6 +341,7 @@ Integration Plans
 Ghost Developer
 
 · GitHub: [@CHICO-CP](https://github.com/CHICO-CP)
+
 · Telegram: [Ghost Developer](t.me/GhostDev)
 
 # 📄 License
